@@ -17,9 +17,9 @@
 
 ## Install (Windows 10 and 11)
 
-1. Open **[Releases](../../releases/latest)** and download `Origami-Reader-...-Windows.zip`.
-2. Right-click the ZIP, choose **Extract All**, and open the extracted folder.
-3. Run **Origami Reader Installer.exe** and choose what you want. Setup downloads only those parts.
+1. Open **[Releases](../../releases/latest)** and download `Origami-Reader-Setup-....exe`.
+2. Double-click it. If Windows says it does not recognise the app (this beta is not signed), choose **More info**, then **Run anyway**.
+3. Choose what you want. Setup downloads only those parts.
 
 The full guide, with what each choice means and how much it downloads, is in **[docs/INSTALL.md](docs/INSTALL.md)**.
 

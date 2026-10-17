@@ -5,20 +5,19 @@
 - Windows 10 or 11, 64-bit.
 - An internet connection during setup. After that, Origami works offline.
 - Free space: about 1 GB for the app, plus what you choose (see below). Setup checks the space before it starts.
-- Already installed an earlier beta? Uninstall it first: Windows Settings > Apps > Installed apps > Origami Reader > Uninstall. Your library, notes, cards and settings are kept and come back in the new version.
+- Already installed an earlier beta? Setup offers to replace it. Your library, notes, cards and settings are kept.
 
 ## Steps
 
-1. Download `Origami-Reader-...-Windows.zip` from the [latest release](../../../releases/latest).
-2. Right-click the ZIP and choose **Extract All**. A short folder such as `C:\Origami-Setup` works best.
-3. Open the extracted folder and run **Origami Reader Installer.exe**. Keep the other folders beside it.
+1. Download `Origami-Reader-Setup-....exe` from the [latest release](../../../releases/latest).
+2. Double-click it. A small window prepares setup for a few seconds.
    - Windows may warn that the app is unrecognised, because this beta is not signed. Choose **More info**, then **Run anyway**. Do not turn off Windows security.
    - If WebView2 or the Visual C++ runtime is missing, setup offers the Microsoft installers it includes. A restart may be needed.
-4. Choose a **new** installation folder (the suggested one is fine).
-5. Choose your languages, appearance and models (see below). The review page shows how much setup will download.
-6. Accept the app license, and the image model licenses if you chose pictures.
-7. Setup downloads and installs what you chose. You can pause or cancel; anything already downloaded is kept for the next try.
-8. Choose **Launch Origami** when it finishes.
+3. Choose a **new** installation folder (the suggested one is fine). If an earlier beta is installed, setup offers to replace it; your library, notes and settings are kept.
+4. Choose your languages, appearance and models (see below). The review page shows how much setup will download.
+5. Accept the app license, and the image model licenses if you chose pictures.
+6. Setup downloads and installs what you chose, showing each file's progress and speed. You can pause or cancel; anything already downloaded is kept for the next try.
+7. Choose **Launch Origami** when it finishes.
 
 ## Choosing what to install
 
