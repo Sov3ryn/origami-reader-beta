@@ -38,6 +38,10 @@ The installer is small. Setup downloads the parts you tick, each from its origin
 
 Nothing is sent anywhere when you use Origami: no account, no ads, no tracking.
 
+## Updates
+
+Once installed, Origami updates itself. It checks once a day and tells you when a new version is ready; install it from **Settings, About and support, Updates**. Updates download only what changed and keep your library, notes and settings.
+
 ## Feedback
 
 Use **[Issues](../../issues/new/choose)** to report a problem or share an idea. Please include your Windows version, your computer model and graphics card, and what you tried.
