@@ -1,0 +1,11 @@
+name: Share an idea
+description: Something you would like Origami to do, or do better.
+labels: ["idea"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What you would like, and when it would help you.
+    validations:
+      required: true

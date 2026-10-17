@@ -1,0 +1,36 @@
+name: Report a problem
+description: Something does not work or looks wrong.
+labels: ["problem"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected and what you saw. Paste any error message exactly.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Origami version
+      description: The release you downloaded, for example 0.1.0-beta.6.
+  - type: input
+    id: computer
+    attributes:
+      label: Computer
+      description: Windows version, computer model and graphics card, if you know them.
+  - type: dropdown
+    id: models
+    attributes:
+      label: What you installed
+      multiple: true
+      options:
+        - Light voices
+        - Qwen voices
+        - SD-Turbo pictures
+        - DreamShaper pictures
+        - None of the optional parts
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or anything else
