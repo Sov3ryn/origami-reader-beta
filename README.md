@@ -46,6 +46,10 @@ Once installed, Origami updates itself. It checks once a day and tells you when 
 
 Use **[Issues](../../issues/new/choose)** to report a problem or share an idea. Please include your Windows version, your computer model and graphics card, and what you tried.
 
+## Support Origami
+
+Origami is free and complete for everyone. If you would like to support its development, you can leave a tip on **[Ko-fi](https://ko-fi.com/sov3ryn)**, or from inside the app in Settings, About and support.
+
 ## Please keep it private
 
 This beta is for invited friends. Please do not share the download or re-upload it.
