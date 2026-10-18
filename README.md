@@ -10,7 +10,7 @@
 
 ## What it does
 
-- **Read**: EPUB, PDF, MOBI and Kindle (AZW), FB2, Word, OpenDocument, RTF, HTML, text and Markdown, with papers and themes for day and night, bookmarks, highlights and notes.
+- **Read**: EPUB, PDF, MOBI and Kindle (AZW), FB2, Word, OpenDocument, RTF, HTML, text and Markdown, with papers and themes for day and night, bookmarks, highlights and notes. Six starter classics, in English or one of 19 other languages.
 - **Listen**: books read aloud by voices that run on your computer, offline. Light voices work on any computer; Qwen voices are more natural with a graphics card.
 - **Work mode** (Ctrl+Shift+W): notes with formulas, diagrams, tables and sticky notes; study cards with spaced repetition, picture cards and practice tests; spreadsheets, boards and precise plans; handwriting reading.
 - **Pictures**: book covers and voice portraits made on your computer (optional).
