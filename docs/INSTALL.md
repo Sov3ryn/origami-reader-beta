@@ -12,9 +12,10 @@
 1. Download `Origami-Reader-Setup-....exe` from the [latest release](../../../releases/latest).
 2. Double-click it. A small window prepares setup for a few seconds.
    - Windows may warn that the app is unrecognised, because this beta is not signed. Choose **More info**, then **Run anyway**. Do not turn off Windows security.
+   - If Windows says **Smart App Control blocked an app that may be unsafe**, Origami cannot be installed on that computer for now. Smart App Control (on some new Windows 11 computers) only runs signed apps, with no way to allow one, and this free beta is not signed. Please do not reset your computer to install Origami.
    - If WebView2 or the Visual C++ runtime is missing, setup offers the Microsoft installers it includes. A restart may be needed.
 3. Choose a **new** installation folder (the suggested one is fine). If an earlier beta is installed, setup offers to replace it; your library, notes and settings are kept.
-4. Choose your languages, the language of your starter books, appearance and models (see below). The review page shows how much setup will download.
+4. Choose your languages, the language of your starter books and appearance. Setup picks the models for your computer and four voices per language, to keep the download small; you can change any choice. Other voices and models can be downloaded later in the app (**Voices**, and **Settings, Models**). The review page shows how much setup will download.
 5. Accept the app license, and the image model licenses if you chose pictures.
 6. Setup downloads and installs what you chose, showing each file's progress and speed. You can pause or cancel; anything already downloaded is kept for the next try.
 7. Choose **Launch Origami** when it finishes.
@@ -30,7 +31,7 @@
 
 Any voices also bring the speech packages (about 1.3 GB, or 4.3 GB on computers with an NVIDIA card, which get the graphics card version). Handwriting reading and Related notes are always included (0.5 GB).
 
-**For a small laptop:** light voices and SD-Turbo, without Qwen or DreamShaper.
+**For a small laptop:** keep the light voices setup suggests. Pictures can be added later from Settings, Models.
 
 You can leave everything optional out and use Origami for reading, notes and study only.
 
@@ -42,6 +43,7 @@ The translations are AI first editions and have not been reviewed by a translato
 
 ## If something goes wrong
 
+- **Smart App Control blocked the setup**: the computer only runs signed apps, and this beta is not signed, so Origami cannot run there for now. Turning Smart App Control off is your decision, and on some versions of Windows it cannot be turned back on without resetting the computer. Do not reset your computer for Origami.
 - **A download fails or stops**: check the connection and run setup again. Finished downloads are kept in `%LOCALAPPDATA%\Origami Setup Downloads` and are not downloaded twice; setup removes that folder after a successful install.
 - **Not enough space**: setup says so before it starts. Leave some models out, or free space and try again.
 - **The first sentence read aloud is slow**: the first time, Windows checks the new files. After that it is quick.

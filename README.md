@@ -19,6 +19,7 @@
 
 1. Open **[Releases](../../releases/latest)** and download `Origami-Reader-Setup-....exe`.
 2. Double-click it. If Windows says it does not recognise the app (this beta is not signed), choose **More info**, then **Run anyway**.
+   If Windows says **Smart App Control** blocked it instead, Origami cannot run on that computer for now (Smart App Control only allows signed apps). Please do not reset your computer for it.
 3. Choose what you want. Setup downloads only those parts.
 
 The full guide, with what each choice means and how much it downloads, is in **[docs/INSTALL.md](docs/INSTALL.md)**.
