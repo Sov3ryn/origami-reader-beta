@@ -26,6 +26,8 @@
 | --- | --- | --- |
 | **Light voices** (Kitten Mini, Kitten Micro, Kokoro) | Reading aloud on any computer, including small laptops without a graphics card. 12 English voices. | about 0.8 GB |
 | **Qwen voices** (Set up local speech, then languages) | More natural voices, custom voices, English and French packs. Best with an NVIDIA graphics card; works on the processor, slower. | about 2.5 GB, plus 15 to 20 MB per language |
+| **Qwen3-TTS 1.7B** | The most natural voices, beside the 0.6B. For NVIDIA graphics cards with 10 GB of memory or more. | about 4.5 GB |
+| **Voice designer** (Qwen VoiceDesign 1.7B) | Create new voices from a description. Best with an NVIDIA graphics card. | about 4.5 GB |
 | **Fast picture model** (SD-Turbo) | Book covers and voice portraits in seconds on modest computers. | 5.2 GB (2.5 GB once installed) |
 | **Book cover and portrait model** (DreamShaper) | Richer pictures; slower, best with a graphics card. | 2.1 GB |
 
