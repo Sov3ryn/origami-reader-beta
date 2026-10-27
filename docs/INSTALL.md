@@ -15,7 +15,7 @@
    - If Windows says **Smart App Control blocked an app that may be unsafe**, Origami cannot be installed on that computer for now. Smart App Control (on some new Windows 11 computers) only runs signed apps, with no way to allow one, and this free beta is not signed. Please do not reset your computer to install Origami.
    - If WebView2 or the Visual C++ runtime is missing, setup offers the Microsoft installers it includes. A restart may be needed.
 3. Choose a **new** installation folder (the suggested one is fine). If an earlier beta is installed, setup offers to replace it; your library, notes and settings are kept.
-4. Choose your languages, the language of your starter books and appearance. Setup picks the models for your computer and four voices per language, to keep the download small; you can change any choice. Other voices and models can be downloaded later in the app (**Voices**, and **Settings, Models**). The review page shows how much setup will download.
+4. Choose your languages (voices: English and French for now), the language of your starter books and appearance. Setup picks the models for your computer and four voices per language, to keep the download small; you can change any choice. Other voices and models can be downloaded later in the app (**Voices**, and **Settings, Models**). The review page shows how much setup will download.
 5. Accept the app license, and the image model licenses if you chose pictures.
 6. Setup downloads and installs what you chose, showing each file's progress and speed. You can pause or cancel; anything already downloaded is kept for the next try.
 7. Choose **Launch Origami** when it finishes.
@@ -25,7 +25,7 @@
 | Choice | Good for | Download |
 | --- | --- | --- |
 | **Light voices** (Kitten Mini, Kitten Micro, Kokoro) | Reading aloud on any computer, including small laptops without a graphics card. 12 English voices. | about 0.8 GB |
-| **Qwen voices** (Set up local speech, then languages) | More natural voices, custom voices, English and French packs. Best with an NVIDIA graphics card; works on the processor, slower. | about 2.5 GB, plus 15 to 20 MB per language |
+| **Qwen voices** (Set up local speech, then languages) | More natural voices and custom voices. Voice packs are in English and French for now. Best with an NVIDIA graphics card; works on the processor, slower. | about 2.5 GB, plus 15 to 20 MB per language |
 | **Qwen3-TTS 1.7B** | The most natural voices, beside the 0.6B. For NVIDIA graphics cards with 10 GB of memory or more. | about 4.5 GB |
 | **Voice designer** (Qwen VoiceDesign 1.7B) | Create new voices from a description. Best with an NVIDIA graphics card. | about 4.5 GB |
 | **Fast picture model** (SD-Turbo) | Book covers and voice portraits in seconds on modest computers. | 5.2 GB (2.5 GB once installed) |
@@ -39,7 +39,7 @@ You can leave everything optional out and use Origami for reading, notes and stu
 
 ## Starter books
 
-Origami starts with six classics: Pride and Prejudice, Dracula, The Moonstone, Journey to the Center of the Earth, The Count of Monte Cristo and Grayson's Book of Stories. Setup lets you choose their language: English (the original editions) or one of 19 others. All six are translated into Arabic, Bengali, Chinese (Simplified), Dutch, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese (Brazil), Russian, Spanish, Thai, Turkish, Ukrainian and Vietnamese, except The Count of Monte Cristo, which is not yet in Arabic, Bengali, Hindi, Russian, Turkish or Ukrainian and stays in English there.
+Origami starts with six classics: Pride and Prejudice, Dracula, The Moonstone, Journey to the Center of the Earth, The Count of Monte Cristo and Grayson's Book of Stories. Setup lets you choose their language: English (the original editions) or one of 19 others. All six are translated into Arabic, Bengali, Chinese (Simplified), Dutch, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese (Brazil), Russian, Spanish, Thai, Turkish, Ukrainian and Vietnamese (from beta 15; earlier setups lacked The Count of Monte Cristo in six of them).
 
 The translations are AI first editions and have not been reviewed by a translator yet. If something reads wrong, please tell us. Starter books only arrive in a new library: an existing library keeps the books it has.
 
