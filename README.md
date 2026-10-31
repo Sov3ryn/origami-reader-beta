@@ -2,7 +2,7 @@
 
 <h1 align="center">Origami Reader</h1>
 
-<p align="center">A private beta for friends. Read books and documents, listen to them with voices that run on your computer, take notes and study in Work mode, and make audiobooks in Studio. Everything runs on your computer.</p>
+<p align="center">A free reading app for Windows, in public beta. Read books and documents, listen to them with voices that run on your computer, take notes and study in Work mode, and make audiobooks in Studio. Everything runs on your computer.</p>
 
 <p align="center"><a href="../../releases/latest"><b>Download the latest beta</b></a> · <a href="docs/INSTALL.md">How to install</a> · <a href="../../issues/new/choose">Report a problem or share an idea</a></p>
 
@@ -42,7 +42,7 @@ Origami has three modes, switched at the top of the side panel (or with Ctrl+Shi
 
 ### Pictures (optional)
 
-Book covers and voice portraits made on your computer.
+Book covers and voice portraits made on your computer. Pictures made with an image model carry an invisible watermark that marks them as AI-generated.
 
 ## Install (Windows 10 and 11)
 
@@ -88,10 +88,12 @@ Use **[Issues](../../issues/new/choose)** to report a problem or share an idea. 
 
 Origami is free and complete for everyone. If you would like to support its development, you can leave a tip on **[Ko-fi](https://ko-fi.com/sov3ryn)**, or from inside the app in Settings, About and support.
 
-## Please keep it private
+## Beta
 
-This beta is for invited friends. Please do not share the download or re-upload it.
+Origami Reader is in beta: features may still change and errors can happen, so keep your own copies of books and exports you care about.
+
+Download it only from this page's **[Releases](../../releases/latest)**: copies from anywhere else may have been modified. Please do not re-upload it; link to this page instead.
 
 ## Licenses
 
-Origami Reader, copyright (c) 2026 Sov3ryn. Free to use; copies may not be shared, sold or modified (see the app license in the installed `licenses` folder). The source is available under PolyForm Strict 1.0.0. Each model keeps its own license, shown in setup and installed beside it: Apache 2.0 (Qwen, Kitten, Kokoro, IBM Granite), MIT (TrOCR), CreativeML OpenRAIL-M (DreamShaper) and the Stability AI Community License (SD-Turbo; Powered by Stability AI). Grayson's Book of Stories is by Grayson Bray Morris, under CC BY-SA 4.0.
+Origami Reader, copyright (c) 2026 Sov3ryn. Free to use for any purpose; copies may not be shared, sold or modified. Setup shows the app license in your language and asks you to accept it; it is also in Settings, About and support, and in the installed `licenses` folder. The source code comes with the app and is source-available (not open source) under PolyForm Strict 1.0.0. Each model keeps its own license, shown in setup and installed beside it: Apache 2.0 (Qwen, Kitten, Kokoro, IBM Granite, Ministral), MIT (TrOCR, Whisper, AudioSeal, TrustMark), CC BY 4.0 (NVIDIA Parakeet), CreativeML OpenRAIL-M (DreamShaper) and the Stability AI Community License (SD-Turbo; Powered by Stability AI). Grayson's Book of Stories is by Grayson Bray Morris, under CC BY-SA 4.0.
